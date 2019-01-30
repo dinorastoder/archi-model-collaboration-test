@@ -7,12 +7,24 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4eca0ed3-b63f-4307-89d0-f577ffc06fa1">
     <bounds
-        x="316"
-        y="128"
+        x="132"
+        y="108"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_b417191f-dbc3-4729-9144-1efbaea46fa2.xml#b417191f-dbc3-4729-9144-1efbaea46fa2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a9ed167f-d1ee-4272-a9f1-27251bb4f6b9">
+    <bounds
+        x="272"
+        y="107"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_bf811c00-815f-405b-b06f-46e08170e731.xml#bf811c00-815f-405b-b06f-46e08170e731"/>
   </children>
 </archimate:ArchimateDiagramModel>
